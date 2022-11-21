@@ -132,7 +132,7 @@ echo -e  [MOVIENDO EL VIRUS.]
 echo ""
          sleep 1.3
 echo ""
-echo -e  [MOVIENDO EL VIRUS]
+echo -e  [MOVIENDO EL VIRUS..]
 echo ""
          sleep 1.3
 echo ""
