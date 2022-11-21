@@ -126,14 +126,12 @@ opc
 elif     [ $virus == "05" ];then
 read -p "PON LA RUTA DONDE MOVERA EL VIRUS: " ruta
 echo -e "\e[94m"
-         sleep 1.3
+          sleep 1.3
 echo ""
 echo -e  [MOVIENDO EL VIRUS.]
-echo ""
          sleep 1.3
 echo ""
 echo -e  [MOVIENDO EL VIRUS..]
-echo ""
          sleep 1.3
 echo ""
 echo -e  [MOVIENDO EL VIRUS...]
