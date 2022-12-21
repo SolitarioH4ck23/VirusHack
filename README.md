@@ -1,6 +1,6 @@
 By: SolitarioH4ck23
 
-Es una Herramienta basada en bash de (viruz.apk) pontentes que pueden llegar a malograr tu dispositivo y Incluso borrar todo tus archivos con solo instalarlos.. pipipi
+Es una Herramienta Escrita en bash de (viruz.apk) pontentes que pueden malograr tu dispositivo y Incluso borrar todo tus archivos con solo instalarlo.
 
 [INTALACION EN TERMUX]
 
@@ -18,4 +18,4 @@ Es una Herramienta basada en bash de (viruz.apk) pontentes que pueden llegar a m
 
 Eliges el virus a tu preferencia
 Y lo mueves con el siguiente comando:
--/sdcard
+-/sdcard/download
